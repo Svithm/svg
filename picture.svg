@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 100 100">
+    <circle fill="#fcad3a" cx="20" cy="20" r="10"/>
+    <rect width="200" height="10" fill="#7fdc48" x="5" y="90"/>
+        <line x1="40" y1="30" x2="40" y2="70" stroke="#46a655" stroke-width="18" stroke-linecap="round"/>
+        <line x1="70" y1="50" x2="70" y2="70" stroke="#7fdc48" stroke-width="18" stroke-linecap="round"/>
+        <line x1="55" y1="20" x2="55" y2="70" stroke="#b7f07d" stroke-width="18" stroke-linecap="round"/>
+        <line x1="40" y1="65" x2="40" y2="90" stroke="#6c4127" stroke-width="2" stroke-linecap="butt"/>
+        <line x1="35" y1="70" x2="40" y2="75" stroke="#6c4127" stroke-width="2" stroke-linecap="butt"/>  
+        <line x1="70" y1="75" x2="70" y2="90" stroke="#6c4127" stroke-width="2" stroke-linecap="butt"/>
+        <line x1="55" y1="55" x2="55" y2="90" stroke="#6c4127" stroke-width="2" stroke-linecap="butt"/>
+        <line x1="50" y1="70" x2="55" y2="75" stroke="#6c4127" stroke-width="2" stroke-linecap="butt"/>
+        <line x1="60" y1="70" x2="55" y2="75" stroke="#6c4127" stroke-width="2" stroke-linecap="butt"/>
+        <line x1="50" y1="60" x2="55" y2="65" stroke="#6c4127" stroke-width="2" stroke-linecap="butt"/>  
+</svg>
